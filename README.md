@@ -1,4 +1,4 @@
-# fullPage.js
+﻿# fullPage.js
 ![preview](https://raw.github.com/alvarotrigo/fullPage.js/master/examples/imgs/intro.png)
 ![compatibility](https://raw.github.com/alvarotrigo/fullPage.js/master/examples/imgs/compatible.gif?v=2)
 
@@ -1045,3 +1045,5 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 <a href="https://github.com/donsalvadori" target="_blank" rel="nofollow">
 	<img src="http://wallpapers-for-ipad.com/fullpage/imgs3/avatars/donsalvadori.jpg">
 </a>
+
+ABCD
